@@ -33,5 +33,5 @@ def umpire(id,data):
 
 
 if(__name__=="__main__"):
-  main.run(debug=True)
+  main.run(host='0.0.0.0')
 
