@@ -1,5 +1,5 @@
 
-from AWS import aws_get,aws_get_find,aws_range,aws_post,aws_between
+
 from flask import Flask,jsonify,request
 
 main= Flask(__name__)
